@@ -2,7 +2,7 @@
 
 <!-- 🔷 Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ra1nbow1/asset-host/main/abstract-waves.svg" alt="Ebenezer O. — Banner" width="100%">
+  <img src="assets/banner.svg" alt="Ebenezer O. — Banner" width="100%">
 </p>
 
 <!-- 🔷 Typing Intro -->
@@ -23,7 +23,9 @@
 ---
 
 ### 👋 About Me
-I turn messy, real-world data into clear decisions. I love building lightweight systems that teams actually use—dashboards, survey pipelines, QA checks—and I’m famously the one people call when *“Google Sheets formulas are acting stubborn”* or *“the survey won’t compile.”*  
+Hey there! I'm Ohenebeng Ebenezer — a data-driven creative with a degree in Actuarial Science from the University of Ghana.
+
+I specialize in Python but also very proficient in R, Excel, SQL, Stata, among others: from wrangling messy data to building smart dashboards and automating systems that actually work. My mission? Turning raw data into powerful tools and intuitive insights.  
 
 Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.  
 
@@ -36,7 +38,7 @@ Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
 ### 🌐 My Website
 <p align="center">
   <a href="https://ohenebengebenezer.online/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ebenezer5542/ebenohene/main/assets/website-preview.png" alt="ohenebengebenezer.online" width="100%">
+    <img src="assets/web preview.png" alt="ohenebengebenezer.online" width="100%">
   </a>
 </p>
 
