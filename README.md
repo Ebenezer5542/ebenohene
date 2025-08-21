@@ -1,5 +1,4 @@
-<!-- Profile README for @ebenohene -->
-<!-- Repo name must be exactly your GitHub username to show -->
+<!-- Profile README for @Ebenezer5542 -->
 
 <!-- 🔷 Animated Banner -->
 <p align="center">
@@ -15,8 +14,8 @@
 
 <!-- 🔷 Quick Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebenohene&label=Profile%20Views&style=flat" />
-  <a href="mailto:ebenohene@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=Ebenezer5542&label=Profile%20Views&style=flat" />
+  <a href="mailto:ohenebengebenezer10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
   <a href="https://ohenebengebenezer.online/"><img src="https://img.shields.io/badge/Website-Visit-success?logo=vercel"></a>
 </p>
@@ -37,7 +36,7 @@ Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
 ### 🌐 My Website
 <p align="center">
   <a href="https://ohenebengebenezer.online/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ebenohene/ebenohene/main/assets/website-preview.png" alt="ohenebengebenezer.online" width="100%">
+    <img src="https://raw.githubusercontent.com/Ebenezer5542/ebenohene/main/assets/website-preview.png" alt="ohenebengebenezer.online" width="100%">
   </a>
 </p>
 
@@ -61,38 +60,52 @@ Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
 ---
 
 ### 🚀 Featured Projects
-<a href="https://github.com/ebenohene/data-quality-hfc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebenohene&repo=data-quality-hfc&theme=radical" />
+
+<a href="https://github.com/Ebenezer5542/signin-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" />
 </a>
-<a href="https://github.com/ebenohene/survey-pipelines">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebenohene&repo=survey-pipelines&theme=radical" />
+**signin-app** – A web application that allows staff to log arrivals and departures at the office. Checks location radius, validates staff IDs, and records sign-ins directly into Google Sheets.
+
+<a href="https://github.com/Ebenezer5542/Time_estimate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" />
 </a>
+**Time_estimate** – A Flask-based web app that predicts estimated arrival times for commuters in Accra.
+
+<a href="https://github.com/Ebenezer5542/SurveyCTO-Data-Push">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" />
+</a>
+**SurveyCTO-Data-Push** – Python Tkinter app to download SurveyCTO data and push to Google Sheets manually or automatically.
+
+<a href="https://github.com/Ebenezer5542/ebenohene">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" />
+</a>
+**Portfolio Website** – Repository for my personal portfolio site built to showcase projects and skills.
 
 ---
 
 ### 📊 Live Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ebenohene&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ebenezer5542&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=ebenohene&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ebenezer5542&theme=radical" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebenohene&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebenezer5542&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 🧩 What I’m Good At
 - Making complex things simple: clean schemas, tidy data, “one-click” dashboards  
-- Fast, friendly debugging: **Google Sheets expressions** not working, **survey programming** misbehaving, flaky merges, broken APIs  
-- Building processes that stick: QA checks, HFIs, auto-reports, documentation people actually read  
+- Fast, friendly debugging: Google Sheets formulas, survey programming, flaky merges, broken APIs  
+- Building processes that stick: QA checks, auto-reports, documentation people actually read  
 
 ---
 
 ### 🤝 Let’s Connect
 - 🌐 [Website](https://ohenebengebenezer.online/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a)  
-- 📧 Email: ebenohene@example.com  
+- 📧 Email: ohenebengebenezer10@gmail.com  
 
 > “The one colleagues run to when tech breaks.” — happy teammates
