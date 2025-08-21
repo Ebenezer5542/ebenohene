@@ -24,9 +24,9 @@
 ### 👋 About Me
 I specialize in Python but also very proficient in R, Excel, SQL, Stata, among others: from wrangling messy data to building smart dashboards and automating systems that actually work. My mission? Turning raw data into powerful tools and intuitive insights.  
 
-- 🎯 Interests: Data engineering for impact, RCT analytics, and clean information design  
-- 🌍 Based in Accra; remote-friendly  
-- 🧰 Tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Power BI.
+🎯 Interests: Data engineering for impact, RCT analytics, and clean information design<br>
+🌍 Based in Accra; remote-friendly<br>
+🧰 Tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Power BI
 
 </div>
 
@@ -53,8 +53,6 @@ I specialize in Python but also very proficient in R, Excel, SQL, Stata, among o
 </p>
 
 ---
-
-<div align="center">
 
 <div align="center">
 
@@ -153,9 +151,9 @@ Personal portfolio to showcase projects and skills.
 
 ## 🤝 Let’s Connect
 
-- 🌐 [Website](https://ohenebengebenezer.online/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a)  
-- 📧 Email: ohenebengebenezer10@gmail.com  
+🌐 [Website](https://ohenebengebenezer.online/)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a)<br>
+📧 ohenebengebenezer10@gmail.com  
 
 > “The one colleagues run to when tech breaks.” — happy teammates
 
