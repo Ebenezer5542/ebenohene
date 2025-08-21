@@ -63,25 +63,36 @@ Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/Ebenezer5542/signin-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" />
-</a>
-**signin-app** – A web application that allows staff to log arrivals and departures at the office. Checks location radius, validates staff IDs, and records sign-ins directly into Google Sheets.
-
-<a href="https://github.com/Ebenezer5542/Time_estimate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" />
-</a>
-**Time_estimate** – A Flask-based web app that predicts estimated arrival times for commuters in Accra.
-
-<a href="https://github.com/Ebenezer5542/SurveyCTO-Data-Push">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" />
-</a>
-**SurveyCTO-Data-Push** – Python Tkinter app to download SurveyCTO data and push to Google Sheets manually or automatically.
-
-<a href="https://github.com/Ebenezer5542/ebenohene">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" />
-</a>
-**Portfolio Website** – Repository for my personal portfolio site built to showcase projects and skills.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ebenezer5542/signin-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" width="200"/>
+      </a>
+      <p><b>signin-app</b><br>A web app for staff to log arrivals and departures. Checks location radius, validates IDs, and records sign-ins directly into Google Sheets.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ebenezer5542/Time_estimate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" width="200"/>
+      </a>
+      <p><b>Time_estimate</b><br>Flask-based app predicting estimated arrival times for commuters in Accra.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ebenezer5542/SurveyCTO-Data-Push">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" width="200"/>
+      </a>
+      <p><b>SurveyCTO-Data-Push</b><br>Python Tkinter app to download SurveyCTO data and push to Google Sheets manually or automatically.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ebenezer5542/ebenohene">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="200"/>
+      </a>
+      <p><b>Portfolio Website</b><br>Repository for my personal portfolio site built to showcase projects and skills.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
