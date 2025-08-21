@@ -12,10 +12,20 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ebenezer5542&label=Profile%20Views&style=flat" />
-  <a href="mailto:ohenebengebenezer10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
-  <a href="https://ohenebengebenezer.online/"><img src="https://img.shields.io/badge/Website-Visit-success?logo=vercel"></a>
+  <a href="mailto:ohenebengebenezer10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://ohenebengebenezer.online/">
+    <img src="https://img.shields.io/badge/Website-Visit-success?logo=vercel" alt="Website">
+  </a>
+  <a href="https://github.com/Ebenezer5542">
+    <img src="https://img.shields.io/badge/GitHub-View-black?logo=github" alt="GitHub">
+  </a>
 </p>
+
 
 ---
 
