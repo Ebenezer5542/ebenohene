@@ -11,7 +11,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ebenezer5542&label=Profile%20Views&style=flat" />
   <a href="mailto:ohenebengebenezer10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email">
   </a>
@@ -25,6 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-View-black?logo=github" alt="GitHub">
   </a>
 </p>
+
 
 
 ---
