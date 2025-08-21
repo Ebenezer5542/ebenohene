@@ -38,7 +38,7 @@ Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
 ### 🌐 My Website
 <p align="center">
   <a href="https://ohenebengebenezer.online/" target="_blank">
-    <img src="assets/web preview.png" alt="ohenebengebenezer.online" width="100%">
+    <img src="assets/web-preview.png" alt="ohenebengebenezer.online" width="100%">
   </a>
 </p>
 
