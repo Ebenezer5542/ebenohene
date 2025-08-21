@@ -125,14 +125,13 @@ Tkinter desktop app to download SurveyCTO data and push to Google Sheets, manual
 
 <div style="border: 2px solid #FF6B6B; border-radius: 12px; padding: 12px; background: #1E1E2F; text-align:center; margin:5px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
 
-### <span style="color:#FF6B6B;">Portfolio Website</span>
-<a href="https://github.com/Ebenezer5542/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="100%" style="border-radius:8px;"/>
+### <span style="color:#FF6B6B;">Python Mock Projects</span>
+<a href="https://github.com/Ebenezer5542/python-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=python-projects&theme=radical" width="100%" style="border-radius:8px;"/>
 </a>
 
 <p style="color:#C9D1D9; font-size: 14px;">
-Personal portfolio to showcase projects and skills.
-</p>
+Simple Python projects made to be embedded in backends.
 
 </div>
 
