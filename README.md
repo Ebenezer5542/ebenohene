@@ -1,18 +1,15 @@
 <!-- Profile README for @Ebenezer5542 -->
 
-<!-- 🔷 Animated Banner -->
-<p align="center">
-  <img src="assets/banner.svg" alt="Ebenezer O. — Banner" width="100%">
-</p>
+<div align="center">
 
-<!-- 🔷 Typing Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&pause=600&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+Ohenebeng;Impact+%2B+Data+%2B+Technology;The+%E2%80%9CGenZ+Fixer%E2%80%9D+colleagues+run+to+when+tech+breaks+%F0%9F%98%8E" alt="Typing SVG" />
-  </a>
-</p>
+# Ebenezer Ohenebeng
 
-<!-- 🔷 Quick Badges -->
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&pause=600&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+Ohenebeng;Impact+%2B+Data+%2B+Technology;The+%E2%80%9CGenZ+Fixer%E2%80%9D+colleagues+run+to+when+tech+breaks+%F0%9F%98%8E" alt="Typing SVG" />
+
+**Data Scientist | Python & R | Survey Pipelines & Dashboards**
+
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ebenezer5542&label=Profile%20Views&style=flat" />
   <a href="mailto:ohenebengebenezer10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
@@ -22,30 +19,29 @@
 
 ---
 
+<div align="center">
+
 ### 👋 About Me
-Hey there! I'm Ohenebeng Ebenezer — a data-driven creative with a degree in Actuarial Science from the University of Ghana.
+I turn messy, real-world data into clear decisions. I build lightweight systems teams actually use—dashboards, survey pipelines, QA checks. Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.  
 
-I specialize in Python but also very proficient in R, Excel, SQL, Stata, among others: from wrangling messy data to building smart dashboards and automating systems that actually work. My mission? Turning raw data into powerful tools and intuitive insights.  
+- 🎯 Interests: Data engineering for impact, RCT analytics, and clean information design  
+- 🌍 Based in Accra; remote-friendly  
+- 🧰 Tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Airtable, Power BI, Tableau  
 
-Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.  
-
-- 🎯 Interests: data engineering for impact, RCT analytics, and clean information design  
-- 🌍 Based in Accra; remote-friendly and async-friendly  
-- 🧰 Daily tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Airtable, Power BI, Tableau  
+</div>
 
 ---
 
+<div align="center">
+
 ### 🌐 My Website
-<p align="center">
-  <a href="https://ohenebengebenezer.online/" target="_blank">
-    <img src="assets/web-preview.png" alt="ohenebengebenezer.online" width="100%">
-  </a>
-</p>
+<img src="assets/web-preview.png" alt="Portfolio Website" width="100%">
+</div>
 
 ---
 
 ### 🛠 Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql" />
@@ -61,64 +57,83 @@ Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
+
+## 🚀 Featured Projects
+
+<img src="assets/project-divider.gif" width="100">
+
+</div>
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ebenezer5542/signin-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" width="200"/>
-      </a>
-      <p><b>signin-app</b><br>A web app for staff to log arrivals and departures. Checks location radius, validates IDs, and records sign-ins directly into Google Sheets.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ebenezer5542/Time_estimate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" width="200"/>
-      </a>
-      <p><b>Time_estimate</b><br>Flask-based app predicting estimated arrival times for commuters in Accra.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ebenezer5542/SurveyCTO-Data-Push">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" width="200"/>
-      </a>
-      <p><b>SurveyCTO-Data-Push</b><br>Python Tkinter app to download SurveyCTO data and push to Google Sheets manually or automatically.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ebenezer5542/ebenohene">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="200"/>
-      </a>
-      <p><b>Portfolio Website</b><br>Repository for my personal portfolio site built to showcase projects and skills.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### **Signin App**
+<a href="https://github.com/Ebenezer5542/signin-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" width="100%"/>
+</a>
+
+**What it does:** Staff log arrivals/departures. Checks location radius, validates IDs, records into Google Sheets.
+
+</td>
+<td width="50%">
+
+### **Time Estimate**
+<a href="https://github.com/Ebenezer5542/Time_estimate">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" width="100%"/>
+</a>
+
+**What it does:** Flask-based web app predicting estimated arrival times for Accra commuters.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### **SurveyCTO Data Push**
+<a href="https://github.com/Ebenezer5542/SurveyCTO-Data-Push">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" width="100%"/>
+</a>
+
+**What it does:** Tkinter desktop app to download SurveyCTO data and push to Google Sheets, manually or automatically.
+
+</td>
+<td width="50%">
+
+### **Portfolio Website**
+<a href="https://github.com/Ebenezer5542/ebenohene">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="100%"/>
+</a>
+
+**What it does:** Personal portfolio to showcase projects and skills.
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 Live Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ebenezer5542&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Ebenezer5542&theme=radical" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebenezer5542&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ebenezer5542&show_icons=true&theme=tokyonight" alt="Stats" />
+<img src="https://streak-stats.demolab.com?user=Ebenezer5542&theme=radical" alt="Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebenezer5542&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
-### 🧩 What I’m Good At
-- Making complex things simple: clean schemas, tidy data, “one-click” dashboards  
-- Fast, friendly debugging: Google Sheets formulas, survey programming, flaky merges, broken APIs  
-- Building processes that stick: QA checks, auto-reports, documentation people actually read  
+<div align="center">
 
----
+## 🤝 Let’s Connect
 
-### 🤝 Let’s Connect
 - 🌐 [Website](https://ohenebengebenezer.online/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a)  
 - 📧 Email: ohenebengebenezer10@gmail.com  
 
 > “The one colleagues run to when tech breaks.” — happy teammates
+
+</div>
