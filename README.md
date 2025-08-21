@@ -1,7 +1,7 @@
 <!-- Profile README for @ebenohene -->
-<!-- Tip: The repo name must be exactly your GitHub username to show on your profile -->
+<!-- Repo name must be exactly your GitHub username to show -->
 
-<!-- 🔷 Animated Banner (swap the URL with your own SVG/GIF if you want) -->
+<!-- 🔷 Animated Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ra1nbow1/asset-host/main/abstract-waves.svg" alt="Ebenezer O. — Banner" width="100%">
 </p>
@@ -17,18 +17,29 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ebenohene&label=Profile%20Views&style=flat" />
   <a href="mailto:ebenohene@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ebenohene/"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
-  <a href="https://ebenohene.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=vercel"></a>
+  <a href="https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
+  <a href="https://ohenebengebenezer.online/"><img src="https://img.shields.io/badge/Website-Visit-success?logo=vercel"></a>
 </p>
 
 ---
 
-### 👋 About me
-I turn messy, real-world data into clear decisions. I love building lightweight systems that teams actually use—dashboards, survey pipelines, QA checks—and I’m famously the one people call when “Google Sheets formulas are acting stubborn” or “the survey won’t compile.” Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.
+### 👋 About Me
+I turn messy, real-world data into clear decisions. I love building lightweight systems that teams actually use—dashboards, survey pipelines, QA checks—and I’m famously the one people call when *“Google Sheets formulas are acting stubborn”* or *“the survey won’t compile.”*  
 
-- 🎯 Interests: data engineering for impact, experiment analytics (RCTs), and clean information design  
+Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.  
+
+- 🎯 Interests: data engineering for impact, RCT analytics, and clean information design  
 - 🌍 Based in Accra; remote-friendly and async-friendly  
-- 🧰 Daily tools: Python, R, SQL, Stata, Google Sheets, Qualtrics/SurveyCTO, Airtable, Power BI/Tableau
+- 🧰 Daily tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Airtable, Power BI, Tableau  
+
+---
+
+### 🌐 My Website
+<p align="center">
+  <a href="https://ohenebengebenezer.online/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ebenohene/ebenohene/main/assets/website-preview.png" alt="ohenebengebenezer.online" width="100%">
+  </a>
+</p>
 
 ---
 
@@ -39,7 +50,6 @@ I turn messy, real-world data into clear decisions. I love building lightweight 
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Stata-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=googlesheets" />
-  <img src="https://img.shields.io/badge/Qualtrics-000000?style=for-the-badge&logo=qualtrics" />
   <img src="https://img.shields.io/badge/SurveyCTO-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Airtable-000000?style=for-the-badge&logo=airtable" />
   <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi" />
@@ -73,14 +83,16 @@ I turn messy, real-world data into clear decisions. I love building lightweight 
 
 ---
 
-### 🧩 What I’m good at
+### 🧩 What I’m Good At
 - Making complex things simple: clean schemas, tidy data, “one-click” dashboards  
-- Fast, friendly debugging: expressions not working in **Google Sheets**; **survey programming** not compiling or misbehaving; flaky data merges; broken APIs  
-- Building processes that stick: QA checks, HFIs, auto-reports, and documentation teams actually read
+- Fast, friendly debugging: **Google Sheets expressions** not working, **survey programming** misbehaving, flaky merges, broken APIs  
+- Building processes that stick: QA checks, HFIs, auto-reports, documentation people actually read  
 
 ---
 
-### 🤝 Let’s collaborate
-If you’re working on impact, data ops, or program evaluation—and you want fewer headaches and better decisions—reach out.
+### 🤝 Let’s Connect
+- 🌐 [Website](https://ohenebengebenezer.online/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ohenebeng-ebenezer-0190b421a)  
+- 📧 Email: ebenohene@example.com  
 
-> “The one colleagues run to when tech breaks.” — happy teammates  
+> “The one colleagues run to when tech breaks.” — happy teammates
