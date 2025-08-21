@@ -126,7 +126,7 @@ Tkinter desktop app to download SurveyCTO data and push to Google Sheets, manual
 <div style="border: 2px solid #FF6B6B; border-radius: 12px; padding: 12px; background: #1E1E2F; text-align:center; margin:5px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
 
 ### <span style="color:#FF6B6B;">Portfolio Website</span>
-<a href="https://github.com/Ebenezer5542/ebenohene">
+<a href="https://github.com/Ebenezer5542/portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="100%" style="border-radius:8px;"/>
 </a>
 
