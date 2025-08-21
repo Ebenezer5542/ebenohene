@@ -22,11 +22,11 @@
 <div align="center">
 
 ### 👋 About Me
-I turn messy, real-world data into clear decisions. I build lightweight systems teams actually use—dashboards, survey pipelines, QA checks. Around the office I’m the **GenZ Fixer**: quick to debug, quicker to ship.  
+I specialize in Python but also very proficient in R, Excel, SQL, Stata, among others: from wrangling messy data to building smart dashboards and automating systems that actually work. My mission? Turning raw data into powerful tools and intuitive insights.  
 
 - 🎯 Interests: Data engineering for impact, RCT analytics, and clean information design  
 - 🌍 Based in Accra; remote-friendly  
-- 🧰 Tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Airtable, Power BI, Tableau  
+- 🧰 Tools: Python, R, SQL, Stata, Google Sheets, SurveyCTO, Power BI.
 
 </div>
 
@@ -48,14 +48,13 @@ I turn messy, real-world data into clear decisions. I build lightweight systems 
   <img src="https://img.shields.io/badge/Stata-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=googlesheets" />
   <img src="https://img.shields.io/badge/SurveyCTO-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Airtable-000000?style=for-the-badge&logo=airtable" />
   <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
 </p>
 
 ---
+
+<div align="center">
 
 <div align="center">
 
@@ -69,44 +68,68 @@ I turn messy, real-world data into clear decisions. I build lightweight systems 
 <tr>
 <td width="50%">
 
-### **Signin App**
+<div style="border: 2px solid #FF5555; border-radius: 12px; padding: 12px; background: #1E1E2F; text-align:center; margin:5px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+
+### <span style="color:#FF5555;">Signin App</span>
 <a href="https://github.com/Ebenezer5542/signin-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=signin-app&theme=radical" width="100%" style="border-radius:8px;"/>
 </a>
 
-**What it does:** Staff log arrivals/departures. Checks location radius, validates IDs, records into Google Sheets.
+<p style="color:#C9D1D9; font-size: 14px;">
+Staff log arrivals/departures. Checks location radius, validates IDs, records into Google Sheets.
+</p>
+
+</div>
 
 </td>
 <td width="50%">
 
-### **Time Estimate**
+<div style="border: 2px solid #4ECDC4; border-radius: 12px; padding: 12px; background: #1E1E2F; text-align:center; margin:5px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+
+### <span style="color:#4ECDC4;">Time Estimate</span>
 <a href="https://github.com/Ebenezer5542/Time_estimate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=Time_estimate&theme=radical" width="100%" style="border-radius:8px;"/>
 </a>
 
-**What it does:** Flask-based web app predicting estimated arrival times for Accra commuters.
+<p style="color:#C9D1D9; font-size: 14px;">
+Flask-based web app predicting estimated arrival times for Accra commuters.
+</p>
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### **SurveyCTO Data Push**
+<div style="border: 2px solid #FFD93D; border-radius: 12px; padding: 12px; background: #1E1E2F; text-align:center; margin:5px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+
+### <span style="color:#FFD93D;">SurveyCTO Data Push</span>
 <a href="https://github.com/Ebenezer5542/SurveyCTO-Data-Push">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=SurveyCTO-Data-Push&theme=radical" width="100%" style="border-radius:8px;"/>
 </a>
 
-**What it does:** Tkinter desktop app to download SurveyCTO data and push to Google Sheets, manually or automatically.
+<p style="color:#C9D1D9; font-size: 14px;">
+Tkinter desktop app to download SurveyCTO data and push to Google Sheets, manually or automatically.
+</p>
+
+</div>
 
 </td>
 <td width="50%">
 
-### **Portfolio Website**
+<div style="border: 2px solid #FF6B6B; border-radius: 12px; padding: 12px; background: #1E1E2F; text-align:center; margin:5px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+
+### <span style="color:#FF6B6B;">Portfolio Website</span>
 <a href="https://github.com/Ebenezer5542/ebenohene">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ebenezer5542&repo=ebenohene&theme=radical" width="100%" style="border-radius:8px;"/>
 </a>
 
-**What it does:** Personal portfolio to showcase projects and skills.
+<p style="color:#C9D1D9; font-size: 14px;">
+Personal portfolio to showcase projects and skills.
+</p>
+
+</div>
 
 </td>
 </tr>
